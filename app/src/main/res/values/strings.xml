@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">g6</string>
+    <string name="btn_with_back">Con opcion atras</string>
+    <string name="btn_witout_back">Sin opcion atras</string>
+</resources>
